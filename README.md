@@ -91,7 +91,7 @@ Raw data is messy — like an unorganized room. Before any visual was built:
 
 ---
 
-## 👤 About the Author
+## 👤 About
 
 **Prajwal M R** — BCom graduate (Jain University, Bengaluru) working in data: Excel, Power BI, SQL, and Google Agile project management training. I build dashboards that turn messy data into decisions.
 
