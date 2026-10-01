@@ -14,7 +14,6 @@
 (<img width="860" height="479" alt="image" src="https://github.com/user-attachments/assets/7cf2a138-995f-4f6b-8cba-b7d5b4619e2a" />
 
 
-*(To add your own screenshots: drag the image files straight into the GitHub editor where these lines are — GitHub uploads them automatically and replaces the path.)*
 
 ---
 
