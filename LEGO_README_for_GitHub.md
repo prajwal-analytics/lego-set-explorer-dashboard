@@ -10,9 +10,9 @@
 
 | Full view — filter + compare | Click a set — product detail panel |
 |:---:|:---:|
-| (<img width="857" height="480" alt="image" src="https://github.com/user-attachments/assets/e3264f1f-28ee-4191-ace4-be5d2f2d5669" />
-) | (<img width="860" height="479" alt="image" src="https://github.com/user-attachments/assets/7cf2a138-995f-4f6b-8cba-b7d5b4619e2a" />
-) |
+<img width="857" height="480" alt="image" src="https://github.com/user-attachments/assets/e3264f1f-28ee-4191-ace4-be5d2f2d5669" />
+(<img width="860" height="479" alt="image" src="https://github.com/user-attachments/assets/7cf2a138-995f-4f6b-8cba-b7d5b4619e2a" />
+
 
 *(To add your own screenshots: drag the image files straight into the GitHub editor where these lines are — GitHub uploads them automatically and replaces the path.)*
 
