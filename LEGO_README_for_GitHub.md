@@ -10,7 +10,9 @@
 
 | Full view — filter + compare | Click a set — product detail panel |
 |:---:|:---:|
-| ![LEGO Set Finder Dashboard — full view](screenshots/dashboard-full.png) | ![LEGO Set Finder Dashboard — set selected](screenshots/dashboard-selected.png) |
+| ![LEGO Set Finder Dashboard — full view](<img width="857" height="480" alt="image" src="https://github.com/user-attachments/assets/e3264f1f-28ee-4191-ace4-be5d2f2d5669" />
+) | ![LEGO Set Finder Dashboard — set selected](<img width="860" height="479" alt="image" src="https://github.com/user-attachments/assets/7cf2a138-995f-4f6b-8cba-b7d5b4619e2a" />
+) |
 
 *(To add your own screenshots: drag the image files straight into the GitHub editor where these lines are — GitHub uploads them automatically and replaces the path.)*
 
